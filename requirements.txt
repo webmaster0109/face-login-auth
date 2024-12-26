@@ -1,0 +1,6 @@
+Django
+Pillow
+channels
+psycopg2-binary
+face-recognition
+opencv-python
